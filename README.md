@@ -10,6 +10,6 @@ It contains basic operations implemented using Express and MongoDB such as,
 
 /POST
 
-/DELETE
+/DELETE/:id
 
 /PATCH
